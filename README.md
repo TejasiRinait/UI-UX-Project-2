@@ -15,3 +15,5 @@ Features
 . Rich Visuals: High-quality images and descriptions for each menu item.
 
 . Accessibility: Designed with accessibility in mind, including keyboard navigation and screen reader compatibility.
+
+ Here are some screenshots and video explanation showcasing different parts of the menu interface.
